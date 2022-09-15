@@ -1,4 +1,6 @@
-# co12c4ab284082a2e227ac02e
+Simple Unit Converter App created using HTML, CSS and JavaScript. Design provided via Figma Frame from Scrimba. 
+
+Live demo here: https://stoodmag.github.io/Simple-Unit-Converter-App/
 
 ## About Scrimba
 
